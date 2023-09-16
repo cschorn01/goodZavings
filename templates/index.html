@@ -1,0 +1,23 @@
+<html>
+    <head>
+      <style>
+        form {
+          display: flex; /* defines flex container */
+          flex-direction: row; /* establishes the flexbox main-axis */
+          flex-wrap: nowrap; /* allow the items to wrap as needed */
+          justify-content: center; /* defines alignment on flexbox main axis */
+          align-items: stretch; /* defines behavior for flex items on cross axis */
+          align-content: center; /* aligns flexbox lines through extra space */
+          width: 100%;
+          /* height: 30%; */
+        }
+      </style>
+      <title> Search </title>
+    </head>
+    <body>
+      <form  action="/search" method="get">
+        <input type="text" name="input_text" placeholder="Search...">
+        <input type="submit" value="Submit">
+      </form>
+    </body>
+</html> 

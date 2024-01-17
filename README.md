@@ -14,8 +14,6 @@
 [![How to Use](https://img.shields.io/badge/how_to_use-FFFFFF?style=for-the-badge)](https://github.com/cschorn01/goodZavings/tree/main#-3)
 [![Issues](https://img.shields.io/badge/issues-FFFFFF?style=for-the-badge)](https://github.com/cschorn01/goodZavings/tree/main#-4)
 
-[![Stargazers repo roster for @cschorn01/goodZavings](https://reporoster.com/stars/cschorn01/goodZavings)](https://github.com/cschorn01/goodZavings/stargazers)
-
 
 ## ![Description](https://img.shields.io/badge/Description-FFFFFF?style=for-the-badge)
 

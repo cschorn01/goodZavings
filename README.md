@@ -1,6 +1,6 @@
 # goodZavings
 
-![By Chris Schorn](https://img.shields.io/badge/Author-Chris_Schorn-FFFFFF?style=for-the-badge)](https://github.com/cschorn01)
+[![By Chris Schorn](https://img.shields.io/badge/Author-Chris_Schorn-FFFFFF?style=for-the-badge)](https://github.com/cschorn01)
 ![Status](https://img.shields.io/badge/Status-working-FFFFFF?style=for-the-badge)
 [![Download Zip](https://img.shields.io/badge/Download_goodZavings_Zip-FFFFFF?style=for-the-badge)](https://github.com/cschorn01/goodZavings/archive/refs/heads/main.zip)
 
